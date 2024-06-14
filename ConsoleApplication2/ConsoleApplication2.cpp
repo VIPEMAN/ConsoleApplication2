@@ -9,8 +9,9 @@ using namespace std;
 
 int main()
 {
-	int x = 0;
+	int x, y;
   cout << "Hello World!fuiwwwwthqeriutureithweruithwertuyuidgffffhrrreeeeeeeeeesdksdkjlsdfkjlrio\n";
   cin >> x;
-
+  y = 1 + x;
+  cout << y;
 }
